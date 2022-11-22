@@ -7,15 +7,15 @@ Routing table of router 1:
 Routing table of router 2:
 3 1
 0 2
-5 1
+5 3
 3 4
 7 4
 Routing table of router 3:
 2 1
-5 1
+5 2
 0 3
-8 1
-12 1
+8 2
+12 2
 Routing table of router 4:
 6 2
 3 2
